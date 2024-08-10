@@ -9,7 +9,7 @@ main = Tk()
 main.title "Tic-Tac-Toe"
 
 main.mainloop()
-import  as np # type: ignore
+import py  as np # type: ignore
 
 size_of_board = 600
 symbol_size = (size_of_board / 3 - size_of_board / 8) / 2
